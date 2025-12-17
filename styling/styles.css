@@ -20,7 +20,6 @@ html {
 }
 
 body {
-  /* font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; */
   font-family: "Roboto Condensed", sans-serif;
   background-color: var(--light-cream-bg);
   overflow-x: auto;
@@ -153,6 +152,11 @@ body {
   background-color: var(--peach-card-bg);
   border-radius: 20px;
   box-shadow: 0.5px 6px var(--brown-orange-button-icon);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card-item:hover{
+  transform: scale(1.1); /* zoom in */
+  box-shadow: 0 8px 20px var(--dark-blue-header);
 }
 
 .card-item img {
@@ -260,6 +264,12 @@ p {
   border-radius: 30px;
   background-color: var(--peach-card-bg);
   box-shadow: 0.5px 10px var(--dark-blue-header);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+}.services-item:hover {
+ 
+    transform: scale(1.1); /* zoom in */
+    box-shadow: 0 8px 20px var(--dark-blue-header);
 }
 .services-item img {
   height: 30px;
@@ -448,6 +458,8 @@ img {
 }
 
 /* FLEXBOX END - footer ====================  */
+
+
 
 #menu__toggle {
   position: absolute;
@@ -641,4 +653,4 @@ to {
   100% {
     background-position: 0% 50%;
   }
-}
+  }
