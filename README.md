@@ -4,8 +4,8 @@
 
 2. Description
 
-A responsive personal portfolio website built with HTML and CSS.
-It showcases my projects, skills, Web Developemnt services, and contact information in a clean, accessible design.
+A responsive project website built with HTML, CSS & PHP.
+It showcases a Visa Agency and their services for Visa Assistance, and contact information in a clean, accessible design.
 
 3. Features
 
@@ -29,7 +29,7 @@ It showcases my projects, skills, Web Developemnt services, and contact informat
 - Light Cream Background	(254, 246, 235)	#FEF6EB
 - Dark Blue Header / Titles	(0, 54, 83)	#003653
 - Deep Navy Text	(36, 43, 49)	#242B31
-- Brown-Orange (Buttons, Icons)	(170, 97, 44)	#AA612C
+- Brown-Orange (Buttons, Icons)	(170, 97, 44) #AA612C
 - Peach / Card Background	(241, 221, 202)	#F1DDCA
 - Warm Brown Accent	(207, 144, 92)	#CF905C
 
@@ -44,9 +44,11 @@ This site follows accessibility best practices:
 
 7. Deployment
 
-Live Demo: https://armel-nzawou-developer.github.io/ArmelDesign/
+Live Demo: https://armel-nzawou-developer.github.io/Visa-Agency-Solutions/
 
 8. License
 
 - This website is not an open source but private.
 - This website is licensed under the owner's brand (ArmelDesign★).
+
+
